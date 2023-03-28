@@ -1,0 +1,56 @@
+[
+    {
+        "Level": 1,
+        "DPS": 100,
+        "Max Skeletons": 6,
+        "HP": 300,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 110,
+        "Max Skeletons": 8,
+        "HP": 320,
+        "Research Cost": "50k",
+        "Research Time": "4d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 3,
+        "DPS": 140,
+        "Max Skeletons": 10,
+        "HP": 400,
+        "Research Cost": "68k",
+        "Research Time": "4d 18h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "DPS": 160,
+        "Max Skeletons": 12,
+        "HP": 440,
+        "Research Cost": "90k",
+        "Research Time": "6d 18h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 5,
+        "DPS": 180,
+        "Max Skeletons": 14,
+        "HP": 480,
+        "Research Cost": "140k",
+        "Research Time": "10d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 6,
+        "DPS": 200,
+        "Max Skeletons": 15,
+        "HP": 520,
+        "Research Cost": "340k",
+        "Research Time": "17d 12h",
+        "Lab LvL": "13"
+    }
+]

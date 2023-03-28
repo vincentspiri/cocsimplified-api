@@ -1,0 +1,352 @@
+[
+    {
+        "Level": 1,
+        "DPS": 374,
+        "HP": "2,950",
+        "Regen Time": "30m",
+        "Ability Level": "N/A",
+        "Upgrade Cost": "60k",
+        "Upgrade Time": "N/A",
+        "Required TH": 13
+    },
+    {
+        "Level": 2,
+        "DPS": 383,
+        "HP": "3,000",
+        "Regen Time": "30m",
+        "Ability Level": "N/A",
+        "Upgrade Cost": "73k",
+        "Upgrade Time": "8h",
+        "Required TH": 13
+    },
+    {
+        "Level": 3,
+        "DPS": 392,
+        "HP": "3,050",
+        "Regen Time": "30m",
+        "Ability Level": "N/A",
+        "Upgrade Cost": "89k",
+        "Upgrade Time": "16h",
+        "Required TH": 13
+    },
+    {
+        "Level": 4,
+        "DPS": 401,
+        "HP": "3,100",
+        "Regen Time": "30m",
+        "Ability Level": "N/A",
+        "Upgrade Cost": "105k",
+        "Upgrade Time": "22h",
+        "Required TH": 13
+    },
+    {
+        "Level": 5,
+        "DPS": 410,
+        "HP": "3,150",
+        "Regen Time": "32m",
+        "Ability Level": "1",
+        "Upgrade Cost": "122k",
+        "Upgrade Time": "1d 20h",
+        "Required TH": 13
+    },
+    {
+        "Level": 6,
+        "DPS": 418,
+        "HP": "3,200",
+        "Regen Time": "32m",
+        "Ability Level": "1",
+        "Upgrade Cost": "140k",
+        "Upgrade Time": "2d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 7,
+        "DPS": 426,
+        "HP": "3,250",
+        "Regen Time": "32m",
+        "Ability Level": "1",
+        "Upgrade Cost": "158k",
+        "Upgrade Time": "3d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 8,
+        "DPS": 434,
+        "HP": "3,300",
+        "Regen Time": "32m",
+        "Ability Level": "1",
+        "Upgrade Cost": "170k",
+        "Upgrade Time": "3d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 9,
+        "DPS": 442,
+        "HP": "3,350",
+        "Regen Time": "32m",
+        "Ability Level": "1",
+        "Upgrade Cost": "182k",
+        "Upgrade Time": "4d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 10,
+        "DPS": 450,
+        "HP": "3,400",
+        "Regen Time": "34m",
+        "Ability Level": "2",
+        "Upgrade Cost": "192k",
+        "Upgrade Time": "4d 12h",
+        "Required TH": 13
+    },
+    {
+        "Level": 11,
+        "DPS": 458,
+        "HP": "3,450",
+        "Regen Time": "34m",
+        "Ability Level": "2",
+        "Upgrade Cost": "202k",
+        "Upgrade Time": "5d",
+        "Required TH": 13
+    },
+    {
+        "Level": 12,
+        "DPS": 466,
+        "HP": "3,500",
+        "Regen Time": "34m",
+        "Ability Level": "2",
+        "Upgrade Cost": "211k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 13
+    },
+    {
+        "Level": 13,
+        "DPS": 474,
+        "HP": "3,550",
+        "Regen Time": "34m",
+        "Ability Level": "2",
+        "Upgrade Cost": "216k",
+        "Upgrade Time": "6d",
+        "Required TH": 13
+    },
+    {
+        "Level": 14,
+        "DPS": 482,
+        "HP": "3,600",
+        "Regen Time": "34m",
+        "Ability Level": "2",
+        "Upgrade Cost": "222k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 13
+    },
+    {
+        "Level": 15,
+        "DPS": 490,
+        "HP": "3,650",
+        "Regen Time": "36m",
+        "Ability Level": "3",
+        "Upgrade Cost": "228k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 13
+    },
+    {
+        "Level": 16,
+        "DPS": 498,
+        "HP": "3,700",
+        "Regen Time": "36m",
+        "Ability Level": "3",
+        "Upgrade Cost": "234k",
+        "Upgrade Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 17,
+        "DPS": 506,
+        "HP": "3,750",
+        "Regen Time": "36m",
+        "Ability Level": "3",
+        "Upgrade Cost": "239k",
+        "Upgrade Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 18,
+        "DPS": 514,
+        "HP": "3,800",
+        "Regen Time": "36m",
+        "Ability Level": "3",
+        "Upgrade Cost": "245k",
+        "Upgrade Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 19,
+        "DPS": 522,
+        "HP": "3,850",
+        "Regen Time": "36m",
+        "Ability Level": "3",
+        "Upgrade Cost": "251k",
+        "Upgrade Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 20,
+        "DPS": 530,
+        "HP": "3,900",
+        "Regen Time": "38m",
+        "Ability Level": "4",
+        "Upgrade Cost": "257k",
+        "Upgrade Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 21,
+        "DPS": 535,
+        "HP": "3,940",
+        "Regen Time": "38m",
+        "Ability Level": "4",
+        "Upgrade Cost": "262k",
+        "Upgrade Time": "7d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 22,
+        "DPS": 540,
+        "HP": "3,980",
+        "Regen Time": "38m",
+        "Ability Level": "4",
+        "Upgrade Cost": "267k",
+        "Upgrade Time": "7d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 23,
+        "DPS": 545,
+        "HP": "4,020",
+        "Regen Time": "38m",
+        "Ability Level": "4",
+        "Upgrade Cost": "272k",
+        "Upgrade Time": "7d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 24,
+        "DPS": 550,
+        "HP": "4,060",
+        "Regen Time": "38m",
+        "Ability Level": "4",
+        "Upgrade Cost": "277k",
+        "Upgrade Time": "7d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 25,
+        "DPS": 555,
+        "HP": "4,100",
+        "Regen Time": "40m",
+        "Ability Level": "5",
+        "Upgrade Cost": "282k",
+        "Upgrade Time": "7d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 26,
+        "DPS": 560,
+        "HP": "4,140",
+        "Regen Time": "40m",
+        "Ability Level": "5",
+        "Upgrade Cost": "295k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    },
+    {
+        "Level": 27,
+        "DPS": 565,
+        "HP": "4,180",
+        "Regen Time": "40m",
+        "Ability Level": "5",
+        "Upgrade Cost": "300k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    },
+    {
+        "Level": 28,
+        "DPS": 570,
+        "HP": "4,220",
+        "Regen Time": "40m",
+        "Ability Level": "5",
+        "Upgrade Cost": "305k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    },
+    {
+        "Level": 29,
+        "DPS": 575,
+        "HP": "4,260",
+        "Regen Time": "40m",
+        "Ability Level": "5",
+        "Upgrade Cost": "310k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    },
+    {
+        "Level": 30,
+        "DPS": 580,
+        "HP": "4,300",
+        "Regen Time": "42m",
+        "Ability Level": "6",
+        "Upgrade Cost": "315k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    },
+    {
+        "Level": 31,
+        "DPS": 584,
+        "HP": "4,330",
+        "Regen Time": "42m",
+        "Ability Level": "6",
+        "Upgrade Cost": "325k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    },
+    {
+        "Level": 32,
+        "DPS": 588,
+        "HP": "4,360",
+        "Regen Time": "42m",
+        "Ability Level": "6",
+        "Upgrade Cost": "330k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    },
+    {
+        "Level": 33,
+        "DPS": 592,
+        "HP": "4,390",
+        "Regen Time": "42m",
+        "Ability Level": "6",
+        "Upgrade Cost": "335k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    },
+    {
+        "Level": 34,
+        "DPS": 596,
+        "HP": "4,420",
+        "Regen Time": "42m",
+        "Ability Level": "6",
+        "Upgrade Cost": "340k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    },
+    {
+        "Level": 35,
+        "DPS": 600,
+        "HP": "4,450",
+        "Regen Time": "44m",
+        "Ability Level": "7",
+        "Upgrade Cost": "345k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    }
+]

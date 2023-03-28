@@ -1,0 +1,47 @@
+[
+    {
+        "Level": 1,
+        "DPS": 90,
+        "DPH": 300,
+        "HP": "4,000",
+        "Build Cost": "6m",
+        "Build Time": "5d",
+        "Required TH": 11
+    },
+    {
+        "Level": 2,
+        "DPS": 105,
+        "DPH": 350,
+        "HP": "4,400",
+        "Build Cost": "8m",
+        "Build Time": "8d 12h",
+        "Required TH": 11
+    },
+    {
+        "Level": 3,
+        "DPS": 120,
+        "DPH": 400,
+        "HP": "4,800",
+        "Build Cost": "11m",
+        "Build Time": "11d",
+        "Required TH": 12
+    },
+    {
+        "Level": 4,
+        "DPS": 135,
+        "DPH": 450,
+        "HP": "5,200",
+        "Build Cost": "15m",
+        "Build Time": "15d",
+        "Required TH": 13
+    },
+    {
+        "Level": 5,
+        "DPS": 150,
+        "DPH": 500,
+        "HP": "5,600",
+        "Build Cost": "19m",
+        "Build Time": "19d",
+        "Required TH": 14
+    }
+]

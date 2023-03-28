@@ -1,0 +1,114 @@
+[
+    {
+        "Level": 1,
+        "HP": "300",
+        "Build Cost": "50",
+        "Build Cost(Rings)": "N/A",
+        "Required TH": 2
+    },
+    {
+        "Level": 2,
+        "HP": "500",
+        "Build Cost": "1k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 2
+    },
+    {
+        "Level": 3,
+        "HP": "700",
+        "Build Cost": "5k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 3
+    },
+    {
+        "Level": 4,
+        "HP": "900",
+        "Build Cost": "10k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 4
+    },
+    {
+        "Level": 5,
+        "HP": "1,400",
+        "Build Cost": "20k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 5
+    },
+    {
+        "Level": 6,
+        "HP": "2,000",
+        "Build Cost": "30k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 6
+    },
+    {
+        "Level": 7,
+        "HP": "2,500",
+        "Build Cost": "50k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 7
+    },
+    {
+        "Level": 8,
+        "HP": "3,000",
+        "Build Cost": "75k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 8
+    },
+    {
+        "Level": 9,
+        "HP": "3,500",
+        "Build Cost": "100k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 9
+    },
+    {
+        "Level": 10,
+        "HP": "4,000",
+        "Build Cost": "200k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 9
+    },
+    {
+        "Level": 11,
+        "HP": "5,000",
+        "Build Cost": "500k",
+        "Build Cost(Rings)": "1",
+        "Required TH": 10
+    },
+    {
+        "Level": 12,
+        "HP": "7,000",
+        "Build Cost": "1m",
+        "Build Cost(Rings)": "1",
+        "Required TH": 11
+    },
+    {
+        "Level": 13,
+        "HP": "9,000",
+        "Build Cost": "2m",
+        "Build Cost(Rings)": "2",
+        "Required TH": 12
+    },
+    {
+        "Level": 14,
+        "HP": "11,000",
+        "Build Cost": "4m",
+        "Build Cost(Rings)": "4",
+        "Required TH": 13
+    },
+    {
+        "Level": 15,
+        "HP": "12,500",
+        "Build Cost": "7m",
+        "Build Cost(Rings)": "7",
+        "Required TH": 14
+    },
+    {
+        "Level": 16,
+        "HP": "13,500",
+        "Build Cost": "8m",
+        "Build Cost(Rings)": "8",
+        "Required TH": 15
+    }
+]

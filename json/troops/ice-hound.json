@@ -1,0 +1,16 @@
+[
+    {
+        "Level": 5,
+        "DPS": 10,
+        "Freeze Time on Death": "3.5s",
+        "Ice Pups": 10,
+        "HP": "9,500"
+    },
+    {
+        "Level": 6,
+        "DPS": 15,
+        "Freeze Time on Death": "4.25s",
+        "Ice Pups": 12,
+        "HP": "10,000"
+    }
+]

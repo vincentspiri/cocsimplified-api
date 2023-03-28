@@ -1,0 +1,56 @@
+[
+    {
+        "Level": 1,
+        "DPS": 24,
+        "Freeze Time on Death": "4.0s",
+        "HP": "2,600",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 28,
+        "Freeze Time on Death": "4.75s",
+        "HP": "2,800",
+        "Research Cost": "55k",
+        "Research Time": "2d 20h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 3,
+        "DPS": 32,
+        "Freeze Time on Death": "5.5s",
+        "HP": "3,000",
+        "Research Cost": "85k",
+        "Research Time": "5d",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 4,
+        "DPS": 36,
+        "Freeze Time on Death": "6.25s",
+        "HP": "3,200",
+        "Research Cost": "110k",
+        "Research Time": "7d 6h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 5,
+        "DPS": 40,
+        "Freeze Time on Death": "7.0s",
+        "HP": "3,400",
+        "Research Cost": "140k",
+        "Research Time": "9d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 6,
+        "DPS": 44,
+        "Freeze Time on Death": "7.5s",
+        "HP": "3,600",
+        "Research Cost": "305k",
+        "Research Time": "16d",
+        "Lab LvL": "12"
+    }
+]

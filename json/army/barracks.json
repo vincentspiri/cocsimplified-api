@@ -1,0 +1,130 @@
+[
+    {
+        "Level": 1,
+        "Unlocks": "Barbarian",
+        "HP": "250",
+        "Build Cost": "100",
+        "Build Time": "10s",
+        "Required TH": 1
+    },
+    {
+        "Level": 2,
+        "Unlocks": "Archer",
+        "HP": "290",
+        "Build Cost": "500",
+        "Build Time": "1m",
+        "Required TH": 2
+    },
+    {
+        "Level": 3,
+        "Unlocks": "Giant",
+        "HP": "330",
+        "Build Cost": "2500",
+        "Build Time": "10m",
+        "Required TH": 2
+    },
+    {
+        "Level": 4,
+        "Unlocks": "Goblin",
+        "HP": "370",
+        "Build Cost": "5k",
+        "Build Time": "1h",
+        "Required TH": 2
+    },
+    {
+        "Level": 5,
+        "Unlocks": "Wall-Breaker",
+        "HP": "420",
+        "Build Cost": "20k",
+        "Build Time": "8h",
+        "Required TH": 3
+    },
+    {
+        "Level": 6,
+        "Unlocks": "Balloon",
+        "HP": "470",
+        "Build Cost": "120k",
+        "Build Time": "12h",
+        "Required TH": 4
+    },
+    {
+        "Level": 7,
+        "Unlocks": "Wizard",
+        "HP": "520",
+        "Build Cost": "270k",
+        "Build Time": "18h",
+        "Required TH": 5
+    },
+    {
+        "Level": 8,
+        "Unlocks": "Healer",
+        "HP": "580",
+        "Build Cost": "800k",
+        "Build Time": "1d",
+        "Required TH": 6
+    },
+    {
+        "Level": 9,
+        "Unlocks": "Dragon",
+        "HP": "650",
+        "Build Cost": "1.2m",
+        "Build Time": "1d 12h",
+        "Required TH": 7
+    },
+    {
+        "Level": 10,
+        "Unlocks": "PEKKA",
+        "HP": "730",
+        "Build Cost": "1.7m",
+        "Build Time": "2d 12h",
+        "Required TH": 8
+    },
+    {
+        "Level": 11,
+        "Unlocks": "Baby-Dragon",
+        "HP": "810",
+        "Build Cost": "2.6m",
+        "Build Time": "4d",
+        "Required TH": 9
+    },
+    {
+        "Level": 12,
+        "Unlocks": "Miner",
+        "HP": "900",
+        "Build Cost": "3.7m",
+        "Build Time": "5d 12h",
+        "Required TH": 10
+    },
+    {
+        "Level": 13,
+        "Unlocks": "Electro-Dragon",
+        "HP": "980",
+        "Build Cost": "6.5m",
+        "Build Time": "7d 12h",
+        "Required TH": 11
+    },
+    {
+        "Level": 14,
+        "Unlocks": "Yeti",
+        "HP": "1,050",
+        "Build Cost": "9m",
+        "Build Time": "10d",
+        "Required TH": 12
+    },
+    {
+        "Level": 15,
+        "Unlocks": "Dragon-Rider",
+        "HP": "1,150",
+        "Build Cost": "12.5m",
+        "Build Time": "13d",
+        "Required TH": 13
+    },
+    {
+        "Level": 16,
+        "Unlocks": "Electro-Titan",
+        "HP": "1,250",
+        "Build Cost": "15m",
+        "Build Time": "16d",
+        "Required TH": 14
+    }
+]

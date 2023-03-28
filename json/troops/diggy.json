@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 105,
+        "Stun Duration": "2s",
+        "HP": "3,650",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Required TH": 15
+    },
+    {
+        "Level": 2,
+        "DPS": 110,
+        "Stun Duration": "2s",
+        "HP": "3,800",
+        "Upgrade Cost": "220k",
+        "Upgrade Time": "3d",
+        "Required TH": 15
+    },
+    {
+        "Level": 3,
+        "DPS": 115,
+        "Stun Duration": "2s",
+        "HP": "3,950",
+        "Upgrade Cost": "230k",
+        "Upgrade Time": "4d",
+        "Required TH": 15
+    },
+    {
+        "Level": 4,
+        "DPS": 120,
+        "Stun Duration": "2s",
+        "HP": "4,100",
+        "Upgrade Cost": "240k",
+        "Upgrade Time": "5d",
+        "Required TH": 15
+    },
+    {
+        "Level": 5,
+        "DPS": 125,
+        "Stun Duration": "2.5s",
+        "HP": "4,250",
+        "Upgrade Cost": "250k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 6,
+        "DPS": 130,
+        "Stun Duration": "2.5s",
+        "HP": "4,400",
+        "Upgrade Cost": "260k",
+        "Upgrade Time": "6d",
+        "Required TH": 15
+    },
+    {
+        "Level": 7,
+        "DPS": 135,
+        "Stun Duration": "2.5s",
+        "HP": "4,550",
+        "Upgrade Cost": "270k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 8,
+        "DPS": 140,
+        "Stun Duration": "2.5s",
+        "HP": "4,700",
+        "Upgrade Cost": "280k",
+        "Upgrade Time": "7d",
+        "Required TH": 15
+    },
+    {
+        "Level": 9,
+        "DPS": 145,
+        "Stun Duration": "2.5s",
+        "HP": "4,850",
+        "Upgrade Cost": "290k",
+        "Upgrade Time": "7d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 10,
+        "DPS": 150,
+        "Stun Duration": "3s",
+        "HP": "5,000",
+        "Upgrade Cost": "300k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    }
+]

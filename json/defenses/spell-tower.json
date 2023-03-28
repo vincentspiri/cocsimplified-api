@@ -1,0 +1,26 @@
+[
+    {
+        "Level": 1,
+        "Unlocks": "rage",
+        "HP": "2,500",
+        "Build Cost": "14m",
+        "Build Time": "14d",
+        "Required TH": 15
+    },
+    {
+        "Level": 2,
+        "Unlocks": "poison",
+        "HP": "2,800",
+        "Build Cost": "16m",
+        "Build Time": "16d",
+        "Required TH": 15
+    },
+    {
+        "Level": 3,
+        "Unlocks": "invisibility",
+        "HP": "3,100",
+        "Build Cost": "18m",
+        "Build Time": "18d",
+        "Required TH": 15
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Level": 1,
+        "DPS/Target": 150,
+        "# of Targets": 2,
+        "Damage on Break": "N/A",
+        "HP": "7,500",
+        "Build Cost": "N/A",
+        "Build Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS/Target": 175,
+        "# of Targets": 2,
+        "Damage on Break": "N/A",
+        "HP": "7,500",
+        "Build Cost": "3m",
+        "Build Time": "1d 12h"
+    },
+    {
+        "Level": 3,
+        "DPS/Target": 175,
+        "# of Targets": 3,
+        "Damage on Break": "N/A",
+        "HP": "7,500",
+        "Build Cost": "4.2m",
+        "Build Time": "2d 18h"
+    },
+    {
+        "Level": 4,
+        "DPS/Target": 200,
+        "# of Targets": 3,
+        "Damage on Break": "N/A",
+        "HP": "7,500",
+        "Build Cost": "5.6m",
+        "Build Time": "4d 6h"
+    },
+    {
+        "Level": 5,
+        "DPS/Target": 200,
+        "# of Targets": 4,
+        "Damage on Break": "1,000",
+        "HP": "7,500",
+        "Build Cost": "7m",
+        "Build Time": "5d 12h"
+    }
+]

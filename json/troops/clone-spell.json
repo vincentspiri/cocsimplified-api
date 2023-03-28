@@ -1,0 +1,51 @@
+[
+    {
+        "Level": 1,
+        "Clone Capacity": 22,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Clone Capacity": 24,
+        "Research Cost": "2.1m",
+        "Research Time": "1d 18h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 3,
+        "Clone Capacity": 26,
+        "Research Cost": "3.4m",
+        "Research Time": "3d 12h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Clone Capacity": 28,
+        "Research Cost": "4.2m",
+        "Research Time": "4d",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 5,
+        "Clone Capacity": 30,
+        "Research Cost": "5.6m",
+        "Research Time": "7d",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 6,
+        "Clone Capacity": 34,
+        "Research Cost": "9m",
+        "Research Time": "11d 6h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 7,
+        "Clone Capacity": 38,
+        "Research Cost": "15.5m",
+        "Research Time": "15d 18h",
+        "Lab LvL": "12"
+    }
+]

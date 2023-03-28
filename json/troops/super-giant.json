@@ -1,0 +1,20 @@
+[
+    {
+        "Level": 9,
+        "DPS": 130,
+        "Damage on Walls": "1,300",
+        "HP": "4,000"
+    },
+    {
+        "Level": 10,
+        "DPS": 140,
+        "Damage on Walls": "1,400",
+        "HP": "4,200"
+    },
+    {
+        "Level": 11,
+        "DPS": 150,
+        "Damage on Walls": "1,500",
+        "HP": "4,400"
+    }
+]

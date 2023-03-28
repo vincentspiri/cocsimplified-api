@@ -1,0 +1,83 @@
+[
+    {
+        "Level": 1,
+        "Capacity": "160",
+        "Production Rate": "20/hr",
+        "HP": "800",
+        "Build Cost": "500k",
+        "Build Time": "6h",
+        "Required TH": 7
+    },
+    {
+        "Level": 2,
+        "Capacity": "300",
+        "Production Rate": "30/hr",
+        "HP": "860",
+        "Build Cost": "700k",
+        "Build Time": "12h",
+        "Required TH": 7
+    },
+    {
+        "Level": 3,
+        "Capacity": "540",
+        "Production Rate": "45/hr",
+        "HP": "920",
+        "Build Cost": "900k",
+        "Build Time": "18h",
+        "Required TH": 7
+    },
+    {
+        "Level": 4,
+        "Capacity": "840",
+        "Production Rate": "80/hr",
+        "HP": "980",
+        "Build Cost": "1.2m",
+        "Build Time": "1d",
+        "Required TH": 9
+    },
+    {
+        "Level": 5,
+        "Capacity": "1,280",
+        "Production Rate": "80/hr",
+        "HP": "1,060",
+        "Build Cost": "1.5m",
+        "Build Time": "1d 12h",
+        "Required TH": 9
+    },
+    {
+        "Level": 6,
+        "Capacity": "1,800",
+        "Production Rate": "100/hr",
+        "HP": "1,160",
+        "Build Cost": "1.8m",
+        "Build Time": "2d",
+        "Required TH": 9
+    },
+    {
+        "Level": 7,
+        "Capacity": "2,400",
+        "Production Rate": "120/hr",
+        "HP": "1,280",
+        "Build Cost": "2.4m",
+        "Build Time": "3d",
+        "Required TH": 10
+    },
+    {
+        "Level": 8,
+        "Capacity": "3,00",
+        "Production Rate": "140/hr",
+        "HP": "1,380",
+        "Build Cost": "3m",
+        "Build Time": "4d",
+        "Required TH": 11
+    },
+    {
+        "Level": 9,
+        "Capacity": "3,600",
+        "Production Rate": "160/hr",
+        "HP": "1,480",
+        "Build Cost": "4m",
+        "Build Time": "7d",
+        "Required TH": 12
+    }
+]

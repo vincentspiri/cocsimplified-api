@@ -1,0 +1,74 @@
+[
+    {
+        "Level": 1,
+        "Total Healing": "600",
+        "Total Healing on Heroes": "330",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Total Healing": "800",
+        "Total Healing on Heroes": "440",
+        "Research Cost": "75k",
+        "Research Time": "5h",
+        "Lab LvL": "2"
+    },
+    {
+        "Level": 3,
+        "Total Healing": "1,000",
+        "Total Healing on Heroes": "550",
+        "Research Cost": "150k",
+        "Research Time": "10h",
+        "Lab LvL": "4"
+    },
+    {
+        "Level": 4,
+        "Total Healing": "1,200",
+        "Total Healing on Heroes": "660",
+        "Research Cost": "300k",
+        "Research Time": "20h",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 5,
+        "Total Healing": "1,400",
+        "Total Healing on Heroes": "770",
+        "Research Cost": "900k",
+        "Research Time": "1d 12h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 6,
+        "Total Healing": "1,600",
+        "Total Healing on Heroes": "880",
+        "Research Cost": "1.8m",
+        "Research Time": "4d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 7,
+        "Total Healing": "1,800",
+        "Total Healing on Heroes": "990",
+        "Research Cost": "3m",
+        "Research Time": "6d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 8,
+        "Total Healing": "2,000",
+        "Total Healing on Heroes": "1,100",
+        "Research Cost": "10.5m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 9,
+        "Total Healing": "2,200",
+        "Total Healing on Heroes": "1,210",
+        "Research Cost": "17m",
+        "Research Time": "17d",
+        "Lab LvL": "13"
+    }
+]

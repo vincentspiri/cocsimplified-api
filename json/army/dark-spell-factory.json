@@ -1,0 +1,47 @@
+[
+    {
+        "Level": 1,
+        "Unlocks": "Poison",
+        "Storage Capacity": 1,
+        "HP": 600,
+        "Build Cost": "150k",
+        "Build Time": "6h",
+        "Required TH": 8
+    },
+    {
+        "Level": 2,
+        "Unlocks": "Earthquake",
+        "Storage Capacity": 1,
+        "HP": 660,
+        "Build Cost": "300k",
+        "Build Time": "18h",
+        "Required TH": 8
+    },
+    {
+        "Level": 3,
+        "Unlocks": "Haste",
+        "Storage Capacity": 1,
+        "HP": 720,
+        "Build Cost": "600k",
+        "Build Time": "2d",
+        "Required TH": 9
+    },
+    {
+        "Level": 4,
+        "Unlocks": "Skeleton",
+        "Storage Capacity": 1,
+        "HP": 780,
+        "Build Cost": "1.2m",
+        "Build Time": "4d",
+        "Required TH": 9
+    },
+    {
+        "Level": 5,
+        "Unlocks": "Bat",
+        "Storage Capacity": 1,
+        "HP": 840,
+        "Build Cost": "2.5m",
+        "Build Time": "6d",
+        "Required TH": 10
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Level": 1,
+        "Unlocks": "Lightning",
+        "Storage Capacity": 2,
+        "HP": 425,
+        "Build Cost": "150k",
+        "Build Time": "8h",
+        "Required TH": 5
+    },
+    {
+        "Level": 2,
+        "Unlocks": "Healing",
+        "Storage Capacity": 4,
+        "HP": 470,
+        "Build Cost": "300k",
+        "Build Time": "1d",
+        "Required TH": 6
+    },
+    {
+        "Level": 3,
+        "Unlocks": "Rage",
+        "Storage Capacity": 6,
+        "HP": 520,
+        "Build Cost": "600k",
+        "Build Time": "2d",
+        "Required TH": 7
+    },
+    {
+        "Level": 4,
+        "Unlocks": "Jump-Freeze",
+        "Storage Capacity": 8,
+        "HP": 600,
+        "Build Cost": "1.2m",
+        "Build Time": "3d 12h",
+        "Required TH": 9
+    },
+    {
+        "Level": 5,
+        "Unlocks": "Clone",
+        "Storage Capacity": 10,
+        "HP": 720,
+        "Build Cost": "2m",
+        "Build Time": "4d 6h",
+        "Required TH": 10
+    },
+    {
+        "Level": 6,
+        "Unlocks": "Invisibility",
+        "Storage Capacity": 10,
+        "HP": 840,
+        "Build Cost": "3.5m",
+        "Build Time": "5d",
+        "Required TH": 11
+    },
+    {
+        "Level": 7,
+        "Unlocks": "Recall",
+        "Storage Capacity": 10,
+        "HP": 960,
+        "Build Cost": "9m",
+        "Build Time": "9d",
+        "Required TH": 13
+    }
+]

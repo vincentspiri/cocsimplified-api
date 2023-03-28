@@ -1,0 +1,47 @@
+[
+    {
+        "Level": 1,
+        "DPS/Target": 300,
+        "Damage on Break": "1,000",
+        "Damage Radius": "4 tiles",
+        "HP": "9,600",
+        "Build Cost": "N/A",
+        "Build Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS/Target": 310,
+        "Damage on Break": "1,000",
+        "Damage Radius": "4 tiles",
+        "HP": "9,600",
+        "Build Cost": "10m",
+        "Build Time": "9d"
+    },
+    {
+        "Level": 3,
+        "DPS/Target": 310,
+        "Damage on Break": "1,100",
+        "Damage Radius": "4 tiles",
+        "HP": "9,600",
+        "Build Cost": "12m",
+        "Build Time": "11d"
+    },
+    {
+        "Level": 4,
+        "DPS/Target": 320,
+        "Damage on Break": "1,100",
+        "Damage Radius": "4 tiles",
+        "HP": "9,600",
+        "Build Cost": "14m",
+        "Build Time": "13d"
+    },
+    {
+        "Level": 5,
+        "DPS/Target": 320,
+        "Damage on Break": "1,100",
+        "Damage Radius": "4.5 tiles",
+        "HP": "9,600",
+        "Build Cost": "16m",
+        "Build Time": "14d"
+    }
+]

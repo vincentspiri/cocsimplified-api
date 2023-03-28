@@ -1,0 +1,42 @@
+[
+    {
+        "Level": 1,
+        "DPS": 140,
+        "Point-Blank Damage": "2,900",
+        "Lifetime": "25s",
+        "HP": "4,000",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 160,
+        "Point-Blank Damage": "3,000",
+        "Lifetime": "28s",
+        "HP": "4,400",
+        "Research Cost": "6m",
+        "Research Time": "7d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "DPS": 180,
+        "Point-Blank Damage": "3,100",
+        "Lifetime": "30s",
+        "HP": "4,800",
+        "Research Cost": "8.2m",
+        "Research Time": "10d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 4,
+        "DPS": 200,
+        "Point-Blank Damage": "3,200",
+        "Lifetime": "32s",
+        "HP": "5,200",
+        "Research Cost": "10.5m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    }
+]

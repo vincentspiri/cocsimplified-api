@@ -1,0 +1,66 @@
+[
+    {
+        "Level": 1,
+        "Dmg": 175,
+        "Radius": "3 tiles",
+        "Build Cost": "12500",
+        "Build Time": "N/A",
+        "Required TH": 6
+    },
+    {
+        "Level": 2,
+        "Dmg": 200,
+        "Radius": "3.5 tiles",
+        "Build Cost": "75k",
+        "Build Time": "6h",
+        "Required TH": 6
+    },
+    {
+        "Level": 3,
+        "Dmg": 225,
+        "Radius": "3.5 tiles",
+        "Build Cost": "600k",
+        "Build Time": "1d",
+        "Required TH": 8
+    },
+    {
+        "Level": 4,
+        "Dmg": 250,
+        "Radius": "4 tiles",
+        "Build Cost": "2m",
+        "Build Time": "3d",
+        "Required TH": 10
+    },
+    {
+        "Level": 5,
+        "Dmg": 275,
+        "Radius": "4 tiles",
+        "Build Cost": "2.5m",
+        "Build Time": "3d 12h",
+        "Required TH": 11
+    },
+    {
+        "Level": 6,
+        "Dmg": 325,
+        "Radius": "4 tiles",
+        "Build Cost": "3.8m",
+        "Build Time": "5d 6h",
+        "Required TH": 13
+    },
+    {
+        "Level": 7,
+        "Dmg": 375,
+        "Radius": "4 tiles",
+        "Build Cost": "5.2m",
+        "Build Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 8,
+        "Dmg": 400,
+        "Radius": "4 tiles",
+        "Build Cost": "8.5m",
+        "Build Time": "10d 12h",
+        "Required TH": 14
+    }
+]

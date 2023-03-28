@@ -1,0 +1,74 @@
+[
+    {
+        "Level": 1,
+        "DPS": 75,
+        "Ability DPS": 225,
+        "HP": "1,200",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 85,
+        "Ability DPS": 255,
+        "HP": "1,300",
+        "Research Cost": "2m",
+        "Research Time": "2d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 3,
+        "DPS": 95,
+        "Ability DPS": 285,
+        "HP": "1,400",
+        "Research Cost": "2.5m",
+        "Research Time": "3d 12h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "DPS": 105,
+        "Ability DPS": 315,
+        "HP": "1,500",
+        "Research Cost": "3.4m",
+        "Research Time": "5d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 5,
+        "DPS": 115,
+        "Ability DPS": 345,
+        "HP": "1,600",
+        "Research Cost": "4.2m",
+        "Research Time": "6d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 6,
+        "DPS": 125,
+        "Ability DPS": 375,
+        "HP": "1,700",
+        "Research Cost": "6.3m",
+        "Research Time": "8d 6h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 7,
+        "DPS": 135,
+        "Ability DPS": 405,
+        "HP": "1,800",
+        "Research Cost": "9m",
+        "Research Time": "10d 12h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 8,
+        "DPS": 145,
+        "Ability DPS": 435,
+        "HP": "1,900",
+        "Research Cost": "16m",
+        "Research Time": "15d 18h",
+        "Lab LvL": "12"
+    }
+]

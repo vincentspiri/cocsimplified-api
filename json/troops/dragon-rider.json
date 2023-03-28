@@ -1,0 +1,29 @@
+[
+    {
+        "Level": 1,
+        "DPS": 340,
+        "Damage on Death": 700,
+        "HP": "4,100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 370,
+        "Damage on Death": 800,
+        "HP": "4,400",
+        "Research Cost": "12m",
+        "Research Time": "11d 6h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 3,
+        "DPS": 400,
+        "Damage on Death": 900,
+        "HP": "4,700",
+        "Research Cost": "16.5m",
+        "Research Time": "16d",
+        "Lab LvL": "12"
+    }
+]

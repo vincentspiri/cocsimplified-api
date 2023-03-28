@@ -1,0 +1,47 @@
+[
+    {
+        "Level": 1,
+        "Max DPS": 100,
+        "Speed Decrease": "30%",
+        "Attack Decrease": "30%",
+        "HP": "8,900",
+        "Build Cost": "N/A",
+        "Build Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "Max DPS": 120,
+        "Speed Decrease": "35%",
+        "Attack Decrease": "35%",
+        "HP": "8,900",
+        "Build Cost": "8.5m",
+        "Build Time": "8d 12h"
+    },
+    {
+        "Level": 3,
+        "Max DPS": 140,
+        "Speed Decrease": "40%",
+        "Attack Decrease": "40%",
+        "HP": "8,900",
+        "Build Cost": "10.5m",
+        "Build Time": "10d 12h"
+    },
+    {
+        "Level": 4,
+        "Max DPS": 160,
+        "Speed Decrease": "45%",
+        "Attack Decrease": "45%",
+        "HP": "8,900",
+        "Build Cost": "12.3m",
+        "Build Time": "12d 6h"
+    },
+    {
+        "Level": 5,
+        "Max DPS": 180,
+        "Speed Decrease": "50%",
+        "Attack Decrease": "50%",
+        "HP": "8,900",
+        "Build Cost": "14.2m",
+        "Build Time": "13d 6h"
+    }
+]

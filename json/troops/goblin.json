@@ -1,0 +1,74 @@
+[
+    {
+        "Level": 1,
+        "DPS": 11,
+        "DPS on Resource Buildings": 22,
+        "HP": 25,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 14,
+        "DPS on Resource Buildings": 28,
+        "HP": 30,
+        "Research Cost": "45k",
+        "Research Time": "5h",
+        "Lab LvL": "1"
+    },
+    {
+        "Level": 3,
+        "DPS": 19,
+        "DPS on Resource Buildings": 38,
+        "HP": 36,
+        "Research Cost": "175k",
+        "Research Time": "9h",
+        "Lab LvL": "3"
+    },
+    {
+        "Level": 4,
+        "DPS": 24,
+        "DPS on Resource Buildings": 48,
+        "HP": 50,
+        "Research Cost": "500k",
+        "Research Time": "12h",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 5,
+        "DPS": 32,
+        "DPS on Resource Buildings": 64,
+        "HP": 65,
+        "Research Cost": "1.2m",
+        "Research Time": "1d",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 6,
+        "DPS": 42,
+        "DPS on Resource Buildings": 84,
+        "HP": 80,
+        "Research Cost": "2m",
+        "Research Time": "1d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 7,
+        "DPS": 52,
+        "DPS on Resource Buildings": 104,
+        "HP": 105,
+        "Research Cost": "3m",
+        "Research Time": "3d 12h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 8,
+        "DPS": 62,
+        "DPS on Resource Buildings": 124,
+        "HP": 126,
+        "Research Cost": "6.3m",
+        "Research Time": "8d",
+        "Lab LvL": "10"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Level": 1,
+        "Capacity": 10,
+        "Build Cost": "2k",
+        "Build Time": "N/A",
+        "Required TH": 4
+    },
+    {
+        "Level": 2,
+        "Capacity": 12,
+        "Build Cost": "300k",
+        "Build Time": "12h",
+        "Required TH": 7
+    },
+    {
+        "Level": 3,
+        "Capacity": 14,
+        "Build Cost": "500k",
+        "Build Time": "18h",
+        "Required TH": 8
+    },
+    {
+        "Level": 4,
+        "Capacity": 16,
+        "Build Cost": "800k",
+        "Build Time": "1d 12h",
+        "Required TH": 9
+    },
+    {
+        "Level": 5,
+        "Capacity": 18,
+        "Build Cost": "1m",
+        "Build Time": "3d",
+        "Required TH": 10
+    }
+]

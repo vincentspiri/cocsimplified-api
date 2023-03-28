@@ -1,0 +1,122 @@
+[
+    {
+        "Level": 1,
+        "Loot Storage": "1k",
+        "Dark Storage": "N/A",
+        "HP": "450",
+        "Build Cost": "N/A",
+        "Build Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "Loot Storage": "2500",
+        "Dark Storage": "N/A",
+        "HP": "1,600",
+        "Build Cost": "1k",
+        "Build Time": "10s"
+    },
+    {
+        "Level": 3,
+        "Loot Storage": "10k",
+        "Dark Storage": "N/A",
+        "HP": "1,850",
+        "Build Cost": "4k",
+        "Build Time": "1h"
+    },
+    {
+        "Level": 4,
+        "Loot Storage": "50k",
+        "Dark Storage": "N/A",
+        "HP": "2,100",
+        "Build Cost": "150k",
+        "Build Time": "3h"
+    },
+    {
+        "Level": 5,
+        "Loot Storage": "100k",
+        "Dark Storage": "N/A",
+        "HP": "2,400",
+        "Build Cost": "150k",
+        "Build Time": "6h"
+    },
+    {
+        "Level": 6,
+        "Loot Storage": "300k",
+        "Dark Storage": "N/A",
+        "HP": "2,800",
+        "Build Cost": "750k",
+        "Build Time": "12h"
+    },
+    {
+        "Level": 7,
+        "Loot Storage": "500k",
+        "Dark Storage": "2500",
+        "HP": "3,300",
+        "Build Cost": "1m",
+        "Build Time": "18h"
+    },
+    {
+        "Level": 8,
+        "Loot Storage": "750k",
+        "Dark Storage": "5k",
+        "HP": "3,900",
+        "Build Cost": "2m",
+        "Build Time": "1d"
+    },
+    {
+        "Level": 9,
+        "Loot Storage": "1m",
+        "Dark Storage": "10k",
+        "HP": "4,600",
+        "Build Cost": "3m",
+        "Build Time": "2d"
+    },
+    {
+        "Level": 10,
+        "Loot Storage": "1.5m",
+        "Dark Storage": "20k",
+        "HP": "5,500",
+        "Build Cost": "3.5m",
+        "Build Time": "2d 12h"
+    },
+    {
+        "Level": 11,
+        "Loot Storage": "2m",
+        "Dark Storage": "20k",
+        "HP": "6,800",
+        "Build Cost": "4m",
+        "Build Time": "2d 18h"
+    },
+    {
+        "Level": 12,
+        "Loot Storage": "2m",
+        "Dark Storage": "20k",
+        "HP": "7,500",
+        "Build Cost": "6m",
+        "Build Time": "4d 6h"
+    },
+    {
+        "Level": 13,
+        "Loot Storage": "2m",
+        "Dark Storage": "20k",
+        "HP": "8,200",
+        "Build Cost": "9m",
+        "Build Time": "7d 12h"
+    },
+    {
+        "Level": 14,
+        "Loot Storage": "2m",
+        "Dark Storage": "20k",
+        "HP": "8,900",
+        "Build Cost": "15m",
+        "Build Time": "13d 6h"
+    },
+    {
+        "Level": 15,
+        "Loot Storage": "2m",
+        "Dark Storage": "20k",
+        "HP": "9,600",
+        "Build Cost": "18m",
+        "Build Time": "15d"
+    }
+]

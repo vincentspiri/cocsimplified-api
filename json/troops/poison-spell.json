@@ -1,0 +1,83 @@
+[
+    {
+        "Level": 1,
+        "Max DPS": 90,
+        "Speed Decrease": "26%",
+        "Attack Decrease": "35%",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Max DPS": 115,
+        "Speed Decrease": "30%",
+        "Attack Decrease": "40%",
+        "Research Cost": "12k",
+        "Research Time": "8h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 3,
+        "Max DPS": 145,
+        "Speed Decrease": "34%",
+        "Attack Decrease": "45%",
+        "Research Cost": "25k",
+        "Research Time": "1d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 4,
+        "Max DPS": 180,
+        "Speed Decrease": "38%",
+        "Attack Decrease": "50%",
+        "Research Cost": "43k",
+        "Research Time": "2d 14h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 5,
+        "Max DPS": 220,
+        "Speed Decrease": "40%",
+        "Attack Decrease": "55%",
+        "Research Cost": "70k",
+        "Research Time": "6d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 6,
+        "Max DPS": 260,
+        "Speed Decrease": "42%",
+        "Attack Decrease": "60%",
+        "Research Cost": "123k",
+        "Research Time": "7d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 7,
+        "Max DPS": 280,
+        "Speed Decrease": "44%",
+        "Attack Decrease": "65%",
+        "Research Cost": "195k",
+        "Research Time": "11d 18h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 8,
+        "Max DPS": 300,
+        "Speed Decrease": "46%",
+        "Attack Decrease": "68%",
+        "Research Cost": "285k",
+        "Research Time": "16d 18h",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 9,
+        "Max DPS": 320,
+        "Speed Decrease": "48%",
+        "Attack Decrease": "70%",
+        "Research Cost": "320k",
+        "Research Time": "17d 12h",
+        "Lab LvL": "13"
+    }
+]

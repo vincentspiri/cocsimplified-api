@@ -1,0 +1,79 @@
+[
+    {
+        "Level": 1,
+        "Dmg": 20,
+        "Build Cost": "400",
+        "Build Time": "N/A",
+        "Required TH": 3
+    },
+    {
+        "Level": 2,
+        "Dmg": 24,
+        "Build Cost": "1k",
+        "Build Time": "6m",
+        "Required TH": 3
+    },
+    {
+        "Level": 3,
+        "Dmg": 29,
+        "Build Cost": "10k",
+        "Build Time": "2h",
+        "Required TH": 5
+    },
+    {
+        "Level": 4,
+        "Dmg": 35,
+        "Build Cost": "100k",
+        "Build Time": "8h",
+        "Required TH": 7
+    },
+    {
+        "Level": 5,
+        "Dmg": 42,
+        "Build Cost": "300k",
+        "Build Time": "18h",
+        "Required TH": 8
+    },
+    {
+        "Level": 6,
+        "Dmg": 54,
+        "Build Cost": "500k",
+        "Build Time": "1d 12h",
+        "Required TH": 9
+    },
+    {
+        "Level": 7,
+        "Dmg": 72,
+        "Build Cost": "850k",
+        "Build Time": "2d 12h",
+        "Required TH": 10
+    },
+    {
+        "Level": 8,
+        "Dmg": 92,
+        "Build Cost": "1.4m",
+        "Build Time": "2d 18h",
+        "Required TH": 11
+    },
+    {
+        "Level": 9,
+        "Dmg": 125,
+        "Build Cost": "3m",
+        "Build Time": "4d 12h",
+        "Required TH": 13
+    },
+    {
+        "Level": 10,
+        "Dmg": 140,
+        "Build Cost": "5.5m",
+        "Build Time": "7d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 11,
+        "Dmg": 155,
+        "Build Cost": "8m",
+        "Build Time": "8d",
+        "Required TH": 15
+    }
+]

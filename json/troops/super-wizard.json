@@ -1,0 +1,20 @@
+[
+    {
+        "Level": 9,
+        "DPS": 220,
+        "Chain Damage": 176,
+        "HP": 450
+    },
+    {
+        "Level": 10,
+        "DPS": 240,
+        "Chain Damage": 192,
+        "HP": 500
+    },
+    {
+        "Level": 11,
+        "DPS": 260,
+        "Chain Damage": 208,
+        "HP": 550
+    }
+]

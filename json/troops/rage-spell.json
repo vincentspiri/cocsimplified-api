@@ -1,0 +1,44 @@
+[
+    {
+        "Level": 1,
+        "Damage Increase": "130%",
+        "Speed Increase": 20,
+        "Research Cost": "N/A",
+        "Research Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "Damage Increase": "140%",
+        "Speed Increase": 22,
+        "Research Cost": "400k",
+        "Research Time": "12h"
+    },
+    {
+        "Level": 3,
+        "Damage Increase": "150%",
+        "Speed Increase": 24,
+        "Research Cost": "800k",
+        "Research Time": "1d"
+    },
+    {
+        "Level": 4,
+        "Damage Increase": "160%",
+        "Speed Increase": 26,
+        "Research Cost": "1.6m",
+        "Research Time": "2d"
+    },
+    {
+        "Level": 5,
+        "Damage Increase": "170%",
+        "Speed Increase": 28,
+        "Research Cost": "2.4m",
+        "Research Time": "4d"
+    },
+    {
+        "Level": 6,
+        "Damage Increase": "180%",
+        "Speed Increase": 30,
+        "Research Cost": "7.7m",
+        "Research Time": "8d"
+    }
+]

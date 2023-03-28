@@ -1,0 +1,20 @@
+[
+    {
+        "Level": 8,
+        "DPS": 236,
+        "Damage on Death": 400,
+        "HP": "840"
+    },
+    {
+        "Level": 9,
+        "DPS": 256,
+        "Damage on Death": 500,
+        "HP": "940"
+    },
+    {
+        "Level": 10,
+        "DPS": 276,
+        "Damage on Death": 600,
+        "HP": "1,040"
+    }
+]

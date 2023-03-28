@@ -1,0 +1,62 @@
+[
+    {
+        "Level": 1,
+        "DPS": 10,
+        "Damage on Death": 100,
+        "Lava Pups": 8,
+        "HP": "6,100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 12,
+        "Damage on Death": 150,
+        "Lava Pups": 10,
+        "HP": "6,500",
+        "Research Cost": "35k",
+        "Research Time": "2d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 3,
+        "DPS": 14,
+        "Damage on Death": 200,
+        "Lava Pups": 12,
+        "HP": "6,800",
+        "Research Cost": "50k",
+        "Research Time": "4d 6h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "DPS": 16,
+        "Damage on Death": 250,
+        "Lava Pups": 14,
+        "HP": "7,200",
+        "Research Cost": "85k",
+        "Research Time": "6d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 5,
+        "DPS": 18,
+        "Damage on Death": 300,
+        "Lava Pups": 16,
+        "HP": "7,600",
+        "Research Cost": "135k",
+        "Research Time": "10d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 6,
+        "DPS": 20,
+        "Damage on Death": 350,
+        "Lava Pups": 18,
+        "HP": "8,000",
+        "Research Cost": "200k",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Level": 7,
+        "DPS Initial": 170,
+        "DPS after 1.5s": 340,
+        "DPS after 3s": 520,
+        "HP": "2,800"
+    },
+    {
+        "Level": 8,
+        "DPS Initial": 185,
+        "DPS after 1.5s": 370,
+        "DPS after 3s": 560,
+        "HP": "3,000"
+    },
+    {
+        "Level": 9,
+        "DPS Initial": 200,
+        "DPS after 1.5s": 400,
+        "DPS after 3s": 600,
+        "HP": "3,200"
+    }
+]

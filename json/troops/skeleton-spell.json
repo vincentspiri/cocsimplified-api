@@ -1,0 +1,51 @@
+[
+    {
+        "Level": 1,
+        "Skeletons": 12,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Skeletons": 13,
+        "Research Cost": "22k",
+        "Research Time": "1d 8h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 3,
+        "Skeletons": 14,
+        "Research Cost": "34k",
+        "Research Time": "2d 14h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Skeletons": 15,
+        "Research Cost": "50k",
+        "Research Time": "4d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 5,
+        "Skeletons": 16,
+        "Research Cost": "87k",
+        "Research Time": "6d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 6,
+        "Skeletons": 17,
+        "Research Cost": "105k",
+        "Research Time": "7d 6h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 7,
+        "Skeletons": 18,
+        "Research Cost": "187k",
+        "Research Time": "11d 6h",
+        "Lab LvL": "11"
+    }
+]

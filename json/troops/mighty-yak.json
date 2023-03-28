@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 60,
+        "Damage on Walls": "2,520",
+        "HP": "3,750",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Required TH": 14
+    },
+    {
+        "Level": 2,
+        "DPS": 64,
+        "Damage on Walls": "2,688",
+        "HP": "4,000",
+        "Upgrade Cost": "165k",
+        "Upgrade Time": "3d",
+        "Required TH": 14
+    },
+    {
+        "Level": 3,
+        "DPS": 68,
+        "Damage on Walls": "2,856",
+        "HP": "4,250",
+        "Upgrade Cost": "185k",
+        "Upgrade Time": "4d",
+        "Required TH": 14
+    },
+    {
+        "Level": 4,
+        "DPS": 72,
+        "Damage on Walls": "3,024",
+        "HP": "4,500",
+        "Upgrade Cost": "205k",
+        "Upgrade Time": "5d",
+        "Required TH": 14
+    },
+    {
+        "Level": 5,
+        "DPS": 76,
+        "Damage on Walls": "3,192",
+        "HP": "4,750",
+        "Upgrade Cost": "225k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 6,
+        "DPS": 80,
+        "Damage on Walls": "3,360",
+        "HP": "4,950",
+        "Upgrade Cost": "245k",
+        "Upgrade Time": "6d",
+        "Required TH": 14
+    },
+    {
+        "Level": 7,
+        "DPS": 84,
+        "Damage on Walls": "3,528",
+        "HP": "5,100",
+        "Upgrade Cost": "255k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 8,
+        "DPS": 88,
+        "Damage on Walls": "3,696",
+        "HP": "5,250",
+        "Upgrade Cost": "265k",
+        "Upgrade Time": "7d",
+        "Required TH": 14
+    },
+    {
+        "Level": 9,
+        "DPS": 92,
+        "Damage on Walls": "3,864",
+        "HP": "5,400",
+        "Upgrade Cost": "275k",
+        "Upgrade Time": "7d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 10,
+        "DPS": 96,
+        "Damage on Walls": "4,032",
+        "HP": "5,550",
+        "Upgrade Cost": "285k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    }
+]

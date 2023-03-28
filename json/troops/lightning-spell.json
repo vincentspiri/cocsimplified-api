@@ -1,0 +1,72 @@
+[
+    {
+        "Level": 1,
+        "Damage": 150,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Damage": 180,
+        "Research Cost": "50k",
+        "Research Time": "4h",
+        "Lab LvL": "1"
+    },
+    {
+        "Level": 3,
+        "Damage": 210,
+        "Research Cost": "100k",
+        "Research Time": "8h",
+        "Lab LvL": "2"
+    },
+    {
+        "Level": 4,
+        "Damage": 240,
+        "Research Cost": "200k",
+        "Research Time": "12h",
+        "Lab LvL": "3"
+    },
+    {
+        "Level": 5,
+        "Damage": 270,
+        "Research Cost": "600k",
+        "Research Time": "1d",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 6,
+        "Damage": 320,
+        "Research Cost": "1.5m",
+        "Research Time": "4d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 7,
+        "Damage": 400,
+        "Research Cost": "2.5m",
+        "Research Time": "6d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 8,
+        "Damage": 480,
+        "Research Cost": "4.2m",
+        "Research Time": "7d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 9,
+        "Damage": 560,
+        "Research Cost": "7m",
+        "Research Time": "9d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 10,
+        "Damage": 600,
+        "Research Cost": "16m",
+        "Research Time": "16d",
+        "Lab LvL": "13"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Level": 1,
+        "DPS/Target": 200,
+        "Slowdown Effect": "N/A",
+        "HP": "7,500",
+        "Build Cost": "N/A",
+        "Build Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS/Target": 225,
+        "Slowdown Effect": "N/A",
+        "HP": "8,200",
+        "Build Cost": "7.5m",
+        "Build Time": "4d 12h"
+    },
+    {
+        "Level": 3,
+        "DPS/Target": 250,
+        "Slowdown Effect": "4s",
+        "HP": "8,200",
+        "Build Cost": "9m",
+        "Build Time": "6d"
+    },
+    {
+        "Level": 4,
+        "DPS/Target": 275,
+        "Slowdown Effect": "6s",
+        "HP": "8,200",
+        "Build Cost": "11.2m",
+        "Build Time": "6d 12h"
+    },
+    {
+        "Level": 5,
+        "DPS/Target": 300,
+        "Slowdown Effect": "8s",
+        "HP": "8,200",
+        "Build Cost": "13.0m",
+        "Build Time": "5d 12h"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Level": 1,
+        "Bats": 7,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Bats": 9,
+        "Research Cost": "26k",
+        "Research Time": "1d 18h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 3,
+        "Bats": 11,
+        "Research Cost": "51k",
+        "Research Time": "3d 12h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Bats": 16,
+        "Research Cost": "70k",
+        "Research Time": "5d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 5,
+        "Bats": 21,
+        "Research Cost": "105k",
+        "Research Time": "6d 6h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 6,
+        "Bats": 22,
+        "Research Cost": "330k",
+        "Research Time": "18d",
+        "Lab LvL": "13"
+    }
+]

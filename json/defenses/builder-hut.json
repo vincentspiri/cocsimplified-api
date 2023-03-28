@@ -1,0 +1,38 @@
+[
+    {
+        "Level": 1,
+        "DPS": "N/A",
+        "Repair/Sec": "N/A",
+        "HP": "250",
+        "Build Cost": "N/A",
+        "Build Time": "None",
+        "Required TH": 1
+    },
+    {
+        "Level": 2,
+        "DPS": "80",
+        "Repair/Sec": "50",
+        "HP": "1,000",
+        "Build Cost": "9m",
+        "Build Time": "9d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 3,
+        "DPS": "100",
+        "Repair/Sec": "60",
+        "HP": "1,300",
+        "Build Cost": "12m",
+        "Build Time": "11d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 4,
+        "DPS": "120",
+        "Repair/Sec": "70",
+        "HP": "1,600",
+        "Build Cost": "14.5m",
+        "Build Time": "13d 6h",
+        "Required TH": 14
+    }
+]

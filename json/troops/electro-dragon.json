@@ -1,0 +1,56 @@
+[
+    {
+        "Level": 1,
+        "DPS Primary Target": 240,
+        "Damage on Death": "65 x6",
+        "HP": "3,200",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS Primary Target": 270,
+        "Damage on Death": "75 x6",
+        "HP": "3,700",
+        "Research Cost": "6.3m",
+        "Research Time": "5d 12h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 3,
+        "DPS Primary Target": 300,
+        "Damage on Death": "85 x6",
+        "HP": "4,200",
+        "Research Cost": "7.7m",
+        "Research Time": "9d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 4,
+        "DPS Primary Target": 330,
+        "Damage on Death": "95 x6",
+        "HP": "4,500",
+        "Research Cost": "12m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 5,
+        "DPS Primary Target": 360,
+        "Damage on Death": "105 x6",
+        "HP": "4,800",
+        "Research Cost": "18m",
+        "Research Time": "17d",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 6,
+        "DPS Primary Target": 390,
+        "Damage on Death": "115 x6",
+        "HP": "5,100",
+        "Research Cost": "20m",
+        "Research Time": "18d",
+        "Lab LvL": "13"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Level": 1,
+        "DPS": 180,
+        "Aura DPS": 75,
+        "HP": "7,200",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 200,
+        "Aura DPS": 100,
+        "HP": "7,700",
+        "Research Cost": "19.5m",
+        "Research Time": "17d 12h",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 3,
+        "DPS": 220,
+        "Aura DPS": 125,
+        "HP": "8,200",
+        "Research Cost": "20.5m",
+        "Research Time": "18d",
+        "Lab LvL": "13"
+    }
+]

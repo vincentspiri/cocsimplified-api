@@ -1,0 +1,22 @@
+[
+    {
+        "Level": 1,
+        "DPS": 150,
+        "DPH": 225,
+        "Bonus DPH": "12%",
+        "HP": "4,747",
+        "Build Cost": "300k",
+        "Build Time": "18d",
+        "Required TH": 15
+    },
+    {
+        "Level": 2,
+        "DPS": 200,
+        "DPH": 300,
+        "Bonus DPH": "13%",
+        "HP": "5,050",
+        "Build Cost": "360k",
+        "Build Time": "19d",
+        "Required TH": 15
+    }
+]

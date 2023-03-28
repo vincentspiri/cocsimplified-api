@@ -1,0 +1,30 @@
+[
+    {
+        "Level": 1,
+        "Recall Capacity": 83,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Recall Capacity": 89,
+        "Research Cost": "7.5m",
+        "Research Time": "11d 12h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 3,
+        "Recall Capacity": 95,
+        "Research Cost": "14m",
+        "Research Time": "15d 12h",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 4,
+        "Recall Capacity": 101,
+        "Research Cost": "17.5m",
+        "Research Time": "17d 12h",
+        "Lab LvL": "13"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Level": 1,
+        "Push Distance": "1.6 tiles",
+        "HP": "750",
+        "Build Cost": "400k",
+        "Build Time": "6h",
+        "Required TH": 6
+    },
+    {
+        "Level": 2,
+        "Push Distance": "2.0 tiles",
+        "HP": "800",
+        "Build Cost": "700k",
+        "Build Time": "12h",
+        "Required TH": 6
+    },
+    {
+        "Level": 3,
+        "Push Distance": "2.4 tiles",
+        "HP": "850",
+        "Build Cost": "1.1m",
+        "Build Time": "18h",
+        "Required TH": 7
+    },
+    {
+        "Level": 4,
+        "Push Distance": "2.8 tiles",
+        "HP": "900",
+        "Build Cost": "1.5m",
+        "Build Time": "1d",
+        "Required TH": 8
+    },
+    {
+        "Level": 5,
+        "Push Distance": "3.2 tiles",
+        "HP": "950",
+        "Build Cost": "2m",
+        "Build Time": "2d",
+        "Required TH": 9
+    },
+    {
+        "Level": 6,
+        "Push Distance": "3.6 tiles",
+        "HP": "1,000",
+        "Build Cost": "2.5m",
+        "Build Time": "2d 12h",
+        "Required TH": 10
+    },
+    {
+        "Level": 7,
+        "Push Distance": "4.0 tiles",
+        "HP": "1,050",
+        "Build Cost": "4.2m",
+        "Build Time": "3d 12h",
+        "Required TH": 11
+    }
+]

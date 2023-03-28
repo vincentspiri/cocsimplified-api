@@ -1,0 +1,42 @@
+[
+    {
+        "Level": 1,
+        "DPS": 135,
+        "Damage per Attack": 675,
+        "Lifetime": "100s",
+        "HP": "1,700",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 150,
+        "Damage per Attack": 750,
+        "Lifetime": "105s",
+        "HP": "1,800",
+        "Research Cost": "7.6m",
+        "Research Time": "9d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "DPS": 165,
+        "Damage per Attack": 825,
+        "Lifetime": "111s",
+        "HP": "1,900",
+        "Research Cost": "10.5m",
+        "Research Time": "13d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 4,
+        "DPS": 180,
+        "Damage per Attack": 900,
+        "Lifetime": "117s",
+        "HP": "2,000",
+        "Research Cost": "13.3m",
+        "Research Time": "15d",
+        "Lab LvL": "11"
+    }
+]

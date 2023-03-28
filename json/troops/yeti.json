@@ -1,0 +1,38 @@
+[
+    {
+        "Level": 1,
+        "DPS": 230,
+        "Yetimites": 8,
+        "HP": "2,900",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 250,
+        "Yetimites": 9,
+        "HP": "3,200",
+        "Research Cost": "7.7m",
+        "Research Time": "7d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "DPS": 270,
+        "Yetimites": 10,
+        "HP": "3,500",
+        "Research Cost": "11.2m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 4,
+        "DPS": 290,
+        "Yetimites": 11,
+        "HP": "3,700",
+        "Research Cost": "17.1m",
+        "Research Time": "17d",
+        "Lab LvL": "12"
+    }
+]

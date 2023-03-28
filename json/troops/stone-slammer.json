@@ -1,0 +1,38 @@
+[
+    {
+        "Level": 1,
+        "DPS": 400,
+        "Damage on Break": 500,
+        "HP": "5,600",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 500,
+        "Damage on Break": 500,
+        "HP": "5,900",
+        "Research Cost": "4.2m",
+        "Research Time": "5d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "DPS": 600,
+        "Damage on Break": 500,
+        "HP": "6,200",
+        "Research Cost": "5.6m",
+        "Research Time": "7d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 4,
+        "DPS": 700,
+        "Damage on Break": 500,
+        "HP": "6,500",
+        "Research Cost": "10.5m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Level": 1,
+        "DPS": 150,
+        "HP": "2,700",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Required TH": 14
+    },
+    {
+        "Level": 2,
+        "DPS": 160,
+        "HP": "2,800",
+        "Upgrade Cost": "115k",
+        "Upgrade Time": "3d",
+        "Required TH": 14
+    },
+    {
+        "Level": 3,
+        "DPS": 170,
+        "HP": "2,900",
+        "Upgrade Cost": "130k",
+        "Upgrade Time": "4d",
+        "Required TH": 14
+    },
+    {
+        "Level": 4,
+        "DPS": 180,
+        "HP": "3,000",
+        "Upgrade Cost": "145k",
+        "Upgrade Time": "5d",
+        "Required TH": 14
+    },
+    {
+        "Level": 5,
+        "DPS": 190,
+        "HP": "3,100",
+        "Upgrade Cost": "160k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 6,
+        "DPS": 200,
+        "HP": "3,200",
+        "Upgrade Cost": "175k",
+        "Upgrade Time": "6d",
+        "Required TH": 14
+    },
+    {
+        "Level": 7,
+        "DPS": 210,
+        "HP": "3,300",
+        "Upgrade Cost": "190k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 8,
+        "DPS": 220,
+        "HP": "3,400",
+        "Upgrade Cost": "205k",
+        "Upgrade Time": "7d",
+        "Required TH": 14
+    },
+    {
+        "Level": 9,
+        "DPS": 230,
+        "HP": "3,500",
+        "Upgrade Cost": "220k",
+        "Upgrade Time": "7d 12h",
+        "Required TH": 14
+    },
+    {
+        "Level": 10,
+        "DPS": 240,
+        "HP": "3,600",
+        "Upgrade Cost": "235k",
+        "Upgrade Time": "8d",
+        "Required TH": 14
+    }
+]

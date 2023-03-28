@@ -1,0 +1,30 @@
+[
+    {
+        "Level": 1,
+        "Dmg": "1,500",
+        "Build Cost": "15k",
+        "Build Time": "N/A",
+        "Required TH": 7
+    },
+    {
+        "Level": 2,
+        "Dmg": "1,800",
+        "Build Cost": "1m",
+        "Build Time": "1d",
+        "Required TH": 9
+    },
+    {
+        "Level": 3,
+        "Dmg": "2,100",
+        "Build Cost": "2.1m",
+        "Build Time": "3d",
+        "Required TH": 10
+    },
+    {
+        "Level": 4,
+        "Dmg": "2,500",
+        "Build Cost": "4.5m",
+        "Build Time": "5d 6h",
+        "Required TH": 13
+    }
+]

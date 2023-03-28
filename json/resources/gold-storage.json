@@ -1,0 +1,130 @@
+[
+    {
+        "Level": 1,
+        "Capacity": "1500",
+        "HP": "400",
+        "Build Cost": "300",
+        "Build Time": "10s",
+        "Required TH": 1
+    },
+    {
+        "Level": 2,
+        "Capacity": "3k",
+        "HP": "600",
+        "Build Cost": "750",
+        "Build Time": "5m",
+        "Required TH": 2
+    },
+    {
+        "Level": 3,
+        "Capacity": "6k",
+        "HP": "800",
+        "Build Cost": "1500",
+        "Build Time": "20m",
+        "Required TH": 2
+    },
+    {
+        "Level": 4,
+        "Capacity": "12k",
+        "HP": "1,000",
+        "Build Cost": "3k",
+        "Build Time": "1h",
+        "Required TH": 3
+    },
+    {
+        "Level": 5,
+        "Capacity": "25k",
+        "HP": "1,200",
+        "Build Cost": "6k",
+        "Build Time": "2h",
+        "Required TH": 3
+    },
+    {
+        "Level": 6,
+        "Capacity": "45k",
+        "HP": "1,400",
+        "Build Cost": "12k",
+        "Build Time": "3h",
+        "Required TH": 3
+    },
+    {
+        "Level": 7,
+        "Capacity": "100k",
+        "HP": "1,600",
+        "Build Cost": "25k",
+        "Build Time": "4h",
+        "Required TH": 4
+    },
+    {
+        "Level": 8,
+        "Capacity": "225k",
+        "HP": "1,700",
+        "Build Cost": "50k",
+        "Build Time": "5h",
+        "Required TH": 4
+    },
+    {
+        "Level": 9,
+        "Capacity": "450k",
+        "HP": "1,800",
+        "Build Cost": "100k",
+        "Build Time": "8h",
+        "Required TH": 5
+    },
+    {
+        "Level": 10,
+        "Capacity": "850k",
+        "HP": "1,900",
+        "Build Cost": "250k",
+        "Build Time": "12h",
+        "Required TH": 6
+    },
+    {
+        "Level": 11,
+        "Capacity": "1.7m",
+        "HP": "2,100",
+        "Build Cost": "500k",
+        "Build Time": "16h",
+        "Required TH": 7
+    },
+    {
+        "Level": 12,
+        "Capacity": "2m",
+        "HP": "2,500",
+        "Build Cost": "1m",
+        "Build Time": "2d",
+        "Required TH": 11
+    },
+    {
+        "Level": 13,
+        "Capacity": "3m",
+        "HP": "2,900",
+        "Build Cost": "2m",
+        "Build Time": "4d",
+        "Required TH": 12
+    },
+    {
+        "Level": 14,
+        "Capacity": "4m",
+        "HP": "3,300",
+        "Build Cost": "3.5m",
+        "Build Time": "6d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 15,
+        "Capacity": "4.5m",
+        "HP": "3,700",
+        "Build Cost": "5.5m",
+        "Build Time": "11d 6h",
+        "Required TH": 14
+    },
+    {
+        "Level": 16,
+        "Capacity": "5m",
+        "HP": "3,900",
+        "Build Cost": "6.5m",
+        "Build Time": "12d",
+        "Required TH": 15
+    }
+]

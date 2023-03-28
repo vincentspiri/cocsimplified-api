@@ -1,0 +1,27 @@
+[
+    {
+        "Level": 7,
+        "Damage on Death to Walls": "7,000",
+        "HP": 350
+    },
+    {
+        "Level": 8,
+        "Damage on Death to Walls": "9,000",
+        "HP": 400
+    },
+    {
+        "Level": 9,
+        "Damage on Death to Walls": "11,000",
+        "HP": 450
+    },
+    {
+        "Level": 10,
+        "Damage on Death to Walls": "12,520",
+        "HP": 475
+    },
+    {
+        "Level": 11,
+        "Damage on Death to Walls": "13,520",
+        "HP": 500
+    }
+]

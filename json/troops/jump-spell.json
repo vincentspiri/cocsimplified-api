@@ -1,0 +1,37 @@
+[
+    {
+        "Level": 1,
+        "Duration": "20s",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Duration": "40s",
+        "Research Cost": "2m",
+        "Research Time": "4d",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 3,
+        "Duration": "60s",
+        "Research Cost": "3.4m",
+        "Research Time": "6d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Duration": "80s",
+        "Research Cost": "9m",
+        "Research Time": "11d 6h",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 5,
+        "Duration": "100s",
+        "Research Cost": "16.5m",
+        "Research Time": "16d 12h",
+        "Lab LvL": "13"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Level": 1,
+        "DPS": 105,
+        "Hero DPS": 420,
+        "Speed Decrease": "40%",
+        "Attack Decrease": "55%",
+        "HP": 360,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 115,
+        "Hero DPS": 460,
+        "Speed Decrease": "42%",
+        "Attack Decrease": "60%",
+        "HP": 400,
+        "Research Cost": "125k",
+        "Research Time": "9d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "DPS": 125,
+        "Hero DPS": 500,
+        "Speed Decrease": "44%",
+        "Attack Decrease": "65%",
+        "HP": 440,
+        "Research Cost": "180k",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    }
+]

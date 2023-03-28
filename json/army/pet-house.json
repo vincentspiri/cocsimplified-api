@@ -1,0 +1,66 @@
+[
+    {
+        "Level": 1,
+        "Unlocks": "LASSI",
+        "HP": "700",
+        "Build Cost": "14m",
+        "Build Time": "12d 6h",
+        "Required TH": 14
+    },
+    {
+        "Level": 2,
+        "Unlocks": "Electro-Owl",
+        "HP": "800",
+        "Build Cost": "16.5m",
+        "Build Time": "14d 6h",
+        "Required TH": 14
+    },
+    {
+        "Level": 3,
+        "Unlocks": "Mighty-Yak",
+        "HP": "900",
+        "Build Cost": "17.5m",
+        "Build Time": "16d",
+        "Required TH": 14
+    },
+    {
+        "Level": 4,
+        "Unlocks": "Unicorn",
+        "HP": "1,000",
+        "Build Cost": "18.5m",
+        "Build Time": "18d",
+        "Required TH": 14
+    },
+    {
+        "Level": 5,
+        "Unlocks": "Frosty",
+        "HP": "1,050",
+        "Build Cost": "19.7m",
+        "Build Time": "19d",
+        "Required TH": 15
+    },
+    {
+        "Level": 6,
+        "Unlocks": "Diggy",
+        "HP": "1,100",
+        "Build Cost": "20m",
+        "Build Time": "19d 6h",
+        "Required TH": 15
+    },
+    {
+        "Level": 7,
+        "Unlocks": "Poison-Lizard",
+        "HP": "1,150",
+        "Build Cost": "20.2m",
+        "Build Time": "19d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 8,
+        "Unlocks": "Phoenix",
+        "HP": "1,200",
+        "Build Cost": "20.5m",
+        "Build Time": "19d 18h",
+        "Required TH": 15
+    }
+]

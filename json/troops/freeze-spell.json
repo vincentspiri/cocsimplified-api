@@ -1,0 +1,51 @@
+[
+    {
+        "Level": 1,
+        "Duration": "2.5s",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Duration": "3.0s",
+        "Research Cost": "1.2m",
+        "Research Time": "1d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 3,
+        "Duration": "3.5s",
+        "Research Cost": "1.7m",
+        "Research Time": "2d 14h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Duration": "4.0s",
+        "Research Cost": "3m",
+        "Research Time": "4d 6h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 5,
+        "Duration": "4.5s",
+        "Research Cost": "4.2m",
+        "Research Time": "6d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 6,
+        "Duration": "5.0s",
+        "Research Cost": "6m",
+        "Research Time": "7d 18h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 7,
+        "Duration": "5.5s",
+        "Research Cost": "7.7m",
+        "Research Time": "8d 6h",
+        "Lab LvL": "10"
+    }
+]

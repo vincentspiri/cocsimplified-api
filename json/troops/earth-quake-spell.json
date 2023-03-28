@@ -1,0 +1,42 @@
+[
+    {
+        "Level": 1,
+        "Damage": "14.5%*",
+        "Radius": "3.5 tiles",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Damage": "17%",
+        "Radius": "3.8 tiles",
+        "Research Cost": "15k",
+        "Research Time": "18h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 3,
+        "Damage": "21%",
+        "Radius": "4.1 tiles",
+        "Research Cost": "30k",
+        "Research Time": "1d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 4,
+        "Damage": "25%",
+        "Radius": "4.4 tiles",
+        "Research Cost": "51k",
+        "Research Time": "4d 6h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 5,
+        "Damage": "29%",
+        "Radius": "4.7 tiles",
+        "Research Cost": "84k",
+        "Research Time": "7d 18h",
+        "Lab LvL": "9"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "Level": 1,
+        "Damage": 6,
+        "Damage on Walls": "240",
+        "HP": 20,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Damage": 10,
+        "Damage on Walls": "400",
+        "HP": 24,
+        "Research Cost": "100k",
+        "Research Time": "6h",
+        "Lab LvL": "2"
+    },
+    {
+        "Level": 3,
+        "Damage": 15,
+        "Damage on Walls": "600",
+        "HP": 29,
+        "Research Cost": "250k",
+        "Research Time": "12h",
+        "Lab LvL": "4"
+    },
+    {
+        "Level": 4,
+        "Damage": 20,
+        "Damage on Walls": "800",
+        "HP": 35,
+        "Research Cost": "600k",
+        "Research Time": "18h",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 5,
+        "Damage": 43,
+        "Damage on Walls": "1,720",
+        "HP": 53,
+        "Research Cost": "1.2m",
+        "Research Time": "1d",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 6,
+        "Damage": 55,
+        "Damage on Walls": "2,200",
+        "HP": 72,
+        "Research Cost": "2.5m",
+        "Research Time": "2d 3h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 7,
+        "Damage": 66,
+        "Damage on Walls": "2,640",
+        "HP": 82,
+        "Research Cost": "4.2m",
+        "Research Time": "3d 12h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 8,
+        "Damage": 75,
+        "Damage on Walls": "3,000",
+        "HP": 92,
+        "Research Cost": "7.3m",
+        "Research Time": "7d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 9,
+        "Damage": 86,
+        "Damage on Walls": "3,440",
+        "HP": 112,
+        "Research Cost": "10m",
+        "Research Time": "11d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 10,
+        "Damage": 94,
+        "Damage on Walls": "3,760",
+        "HP": 130,
+        "Research Cost": "15.2m",
+        "Research Time": "15d",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 11,
+        "Damage": 102,
+        "Damage on Walls": "4,080",
+        "HP": 140,
+        "Research Cost": "16.5m",
+        "Research Time": "16d",
+        "Lab LvL": "13"
+    }
+]

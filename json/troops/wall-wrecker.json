@@ -1,0 +1,34 @@
+[
+    {
+        "Level": 1,
+        "DPS": 250,
+        "Damage on Walls": "3,250",
+        "HP": "5,500",
+        "Research Cost": "N/A",
+        "Research Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 300,
+        "Damage on Walls": "3900",
+        "HP": "6,000",
+        "Research Cost": "4.2m",
+        "Research Time": "5d 12h"
+    },
+    {
+        "Level": 3,
+        "DPS": 350,
+        "Damage on Walls": "4,550",
+        "HP": "6,500",
+        "Research Cost": "5.6m",
+        "Research Time": "7d"
+    },
+    {
+        "Level": 4,
+        "DPS": 400,
+        "Damage on Walls": "5,200",
+        "HP": "7,000",
+        "Research Cost": "10.5m",
+        "Research Time": "12d"
+    }
+]

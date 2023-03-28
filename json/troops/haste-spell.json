@@ -1,0 +1,42 @@
+[
+    {
+        "Level": 1,
+        "Duration": "10s",
+        "Speed Increase": 28,
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "Duration": "15s",
+        "Speed Increase": 34,
+        "Research Cost": "20k",
+        "Research Time": "1d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 3,
+        "Duration": "20s",
+        "Speed Increase": 40,
+        "Research Cost": "34k",
+        "Research Time": "2d 14h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 4,
+        "Duration": "25s",
+        "Speed Increase": 46,
+        "Research Cost": "60k",
+        "Research Time": "5d",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 5,
+        "Duration": "30s",
+        "Speed Increase": 52,
+        "Research Cost": "77k",
+        "Research Time": "7d 18h",
+        "Lab LvL": "9"
+    }
+]

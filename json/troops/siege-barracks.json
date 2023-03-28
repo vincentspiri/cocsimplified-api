@@ -1,0 +1,38 @@
+[
+    {
+        "Level": 1,
+        "P.E.K.K.As": 1,
+        "Wizards": 6,
+        "HP": "3,300",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "P.E.K.K.As": 1,
+        "Wizards": 8,
+        "HP": "3,700",
+        "Research Cost": "5.6m",
+        "Research Time": "7d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 3,
+        "P.E.K.K.As": 1,
+        "Wizards": 10,
+        "HP": "4,100",
+        "Research Cost": "7.7m",
+        "Research Time": "9d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 4,
+        "P.E.K.K.As": 1,
+        "Wizards": 11,
+        "HP": "4,500",
+        "Research Cost": "10.5m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Level": 1,
+        "Duration": "5s",
+        "Dmg": 39,
+        "Build Cost": "1.8m",
+        "Build Time": "N/A",
+        "Required TH": 11
+    },
+    {
+        "Level": 2,
+        "Duration": "6s",
+        "Dmg": 47,
+        "Build Cost": "2.8m",
+        "Build Time": "2d",
+        "Required TH": 11
+    },
+    {
+        "Level": 3,
+        "Duration": "7s",
+        "Dmg": 55,
+        "Build Cost": "3.5m",
+        "Build Time": "3d",
+        "Required TH": 12
+    }
+]

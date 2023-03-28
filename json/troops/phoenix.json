@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 178,
+        "Revive Duration": "6s",
+        "HP": "3,120",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Required TH": 15
+    },
+    {
+        "Level": 2,
+        "DPS": 186,
+        "Revive Duration": "6s",
+        "HP": "3,240",
+        "Upgrade Cost": "230k",
+        "Upgrade Time": "3d",
+        "Required TH": 15
+    },
+    {
+        "Level": 3,
+        "DPS": 194,
+        "Revive Duration": "6s",
+        "HP": "3,360",
+        "Upgrade Cost": "240k",
+        "Upgrade Time": "4d",
+        "Required TH": 15
+    },
+    {
+        "Level": 4,
+        "DPS": 202,
+        "Revive Duration": "6s",
+        "HP": "3,480",
+        "Upgrade Cost": "250k",
+        "Upgrade Time": "5d",
+        "Required TH": 15
+    },
+    {
+        "Level": 5,
+        "DPS": 210,
+        "Revive Duration": "7s",
+        "HP": "3,600",
+        "Upgrade Cost": "260k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 6,
+        "DPS": 218,
+        "Revive Duration": "7s",
+        "HP": "3,720",
+        "Upgrade Cost": "270k",
+        "Upgrade Time": "6d",
+        "Required TH": 15
+    },
+    {
+        "Level": 7,
+        "DPS": 226,
+        "Revive Duration": "7s",
+        "HP": "3,840",
+        "Upgrade Cost": "280k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 8,
+        "DPS": 234,
+        "Revive Duration": "7s",
+        "HP": "3,960",
+        "Upgrade Cost": "290k",
+        "Upgrade Time": "7d",
+        "Required TH": 15
+    },
+    {
+        "Level": 9,
+        "DPS": 242,
+        "Revive Duration": "7s",
+        "HP": "4,080",
+        "Upgrade Cost": "300k",
+        "Upgrade Time": "7d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 10,
+        "DPS": 250,
+        "Revive Duration": "8s",
+        "HP": "4,200",
+        "Upgrade Cost": "310k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    }
+]

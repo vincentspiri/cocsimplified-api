@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 25,
+        "Damage on Death": 25,
+        "HP": "150",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 32,
+        "Damage on Death": 32,
+        "HP": "180",
+        "Research Cost": "125k",
+        "Research Time": "8h",
+        "Lab LvL": "2"
+    },
+    {
+        "Level": 3,
+        "DPS": 48,
+        "Damage on Death": 48,
+        "HP": "216",
+        "Research Cost": "400k",
+        "Research Time": "12h",
+        "Lab LvL": "4"
+    },
+    {
+        "Level": 4,
+        "DPS": 72,
+        "Damage on Death": 72,
+        "HP": "280",
+        "Research Cost": "800k",
+        "Research Time": "18h",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 5,
+        "DPS": 108,
+        "Damage on Death": 108,
+        "HP": "390",
+        "Research Cost": "1.5m",
+        "Research Time": "1d",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 6,
+        "DPS": 162,
+        "Damage on Death": 162,
+        "HP": "545",
+        "Research Cost": "2.7m",
+        "Research Time": "3d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 7,
+        "DPS": 198,
+        "Damage on Death": 214,
+        "HP": "690",
+        "Research Cost": "4.5m",
+        "Research Time": "5d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 8,
+        "DPS": 236,
+        "Damage on Death": 268,
+        "HP": "840",
+        "Research Cost": "7.7m",
+        "Research Time": "9d 12h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 9,
+        "DPS": 256,
+        "Damage on Death": 322,
+        "HP": "940",
+        "Research Cost": "10.5m",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 10,
+        "DPS": 276,
+        "Damage on Death": 352,
+        "HP": "1,040",
+        "Research Cost": "17m",
+        "Research Time": "17d",
+        "Lab LvL": "12"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Level": 1,
+        "DPS": 60,
+        "HP": "270",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 70,
+        "HP": "312",
+        "Research Cost": "5k",
+        "Research Time": "10h",
+        "Lab LvL": "5"
+    },
+    {
+        "Level": 3,
+        "DPS": 80,
+        "HP": "370",
+        "Research Cost": "9k",
+        "Research Time": "20h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 4,
+        "DPS": 92,
+        "HP": "430",
+        "Research Cost": "16k",
+        "Research Time": "1d 6h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 5,
+        "DPS": 105,
+        "HP": "500",
+        "Research Cost": "30k",
+        "Research Time": "2d",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 6,
+        "DPS": 118,
+        "HP": "590",
+        "Research Cost": "43k",
+        "Research Time": "3d 12h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 7,
+        "DPS": 135,
+        "HP": "700",
+        "Research Cost": "70k",
+        "Research Time": "5d 6h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 8,
+        "DPS": 148,
+        "HP": "810",
+        "Research Cost": "105k",
+        "Research Time": "8d",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 9,
+        "DPS": 161,
+        "HP": "890",
+        "Research Cost": "168k",
+        "Research Time": "9d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 10,
+        "DPS": 174,
+        "HP": "970",
+        "Research Cost": "210k",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 11,
+        "DPS": 187,
+        "HP": "1,080",
+        "Research Cost": "305k",
+        "Research Time": "16d 6h",
+        "Lab LvL": "12"
+    }
+]

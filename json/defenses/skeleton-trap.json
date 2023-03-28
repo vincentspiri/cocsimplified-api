@@ -1,0 +1,30 @@
+[
+    {
+        "Level": 1,
+        "Units": 2,
+        "Build Cost": "6k",
+        "Build Time": "N/A",
+        "Required TH": 8
+    },
+    {
+        "Level": 2,
+        "Units": 3,
+        "Build Cost": "450k",
+        "Build Time": "5h",
+        "Required TH": 8
+    },
+    {
+        "Level": 3,
+        "Units": 4,
+        "Build Cost": "900k",
+        "Build Time": "20h",
+        "Required TH": 9
+    },
+    {
+        "Level": 4,
+        "Units": 5,
+        "Build Cost": "1.5m",
+        "Build Time": "1d 16h",
+        "Required TH": 10
+    }
+]

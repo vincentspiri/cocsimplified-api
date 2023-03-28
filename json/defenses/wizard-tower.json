@@ -1,0 +1,137 @@
+[
+    {
+        "Level": 1,
+        "DPS": 11,
+        "DPH": 14.3,
+        "HP": "620",
+        "Build Cost": "120k",
+        "Build Time": "3h",
+        "Required TH": 5
+    },
+    {
+        "Level": 2,
+        "DPS": 13,
+        "DPH": 16.9,
+        "HP": "650",
+        "Build Cost": "220k",
+        "Build Time": "8h",
+        "Required TH": 5
+    },
+    {
+        "Level": 3,
+        "DPS": 16,
+        "DPH": 20.8,
+        "HP": "680",
+        "Build Cost": "420k",
+        "Build Time": "12h",
+        "Required TH": 6
+    },
+    {
+        "Level": 4,
+        "DPS": 20,
+        "DPH": 26,
+        "HP": "730",
+        "Build Cost": "720k",
+        "Build Time": "18h",
+        "Required TH": 7
+    },
+    {
+        "Level": 5,
+        "DPS": 24,
+        "DPH": 31.2,
+        "HP": "840",
+        "Build Cost": "920k",
+        "Build Time": "1d",
+        "Required TH": 8
+    },
+    {
+        "Level": 6,
+        "DPS": 32,
+        "DPH": 41.6,
+        "HP": "960",
+        "Build Cost": "1.2m",
+        "Build Time": "1d 12h",
+        "Required TH": 8
+    },
+    {
+        "Level": 7,
+        "DPS": 40,
+        "DPH": 52,
+        "HP": "1,200",
+        "Build Cost": "2.2m",
+        "Build Time": "2d",
+        "Required TH": 9
+    },
+    {
+        "Level": 8,
+        "DPS": 45,
+        "DPH": 58.5,
+        "HP": "1,440",
+        "Build Cost": "2.7m",
+        "Build Time": "3d",
+        "Required TH": 10
+    },
+    {
+        "Level": 9,
+        "DPS": 50,
+        "DPH": 65,
+        "HP": "1,680",
+        "Build Cost": "3.7m",
+        "Build Time": "5d 6h",
+        "Required TH": 10
+    },
+    {
+        "Level": 10,
+        "DPS": 62,
+        "DPH": 80.6,
+        "HP": "2,000",
+        "Build Cost": "5.2m",
+        "Build Time": "6d 12h",
+        "Required TH": 11
+    },
+    {
+        "Level": 11,
+        "DPS": 70,
+        "DPH": 91,
+        "HP": "2,240",
+        "Build Cost": "7.2m",
+        "Build Time": "9d 18h",
+        "Required TH": 12
+    },
+    {
+        "Level": 12,
+        "DPS": 78,
+        "DPH": 101.4,
+        "HP": "2,480",
+        "Build Cost": "10.7m",
+        "Build Time": "12d",
+        "Required TH": 13
+    },
+    {
+        "Level": 13,
+        "DPS": 84,
+        "DPH": 109.2,
+        "HP": "2,700",
+        "Build Cost": "12.2m",
+        "Build Time": "12d 18h",
+        "Required TH": 13
+    },
+    {
+        "Level": 14,
+        "DPS": 90,
+        "DPH": 117,
+        "HP": "2,900",
+        "Build Cost": "17.2m",
+        "Build Time": "17d",
+        "Required TH": 14
+    },
+    {
+        "Level": 15,
+        "DPS": 95,
+        "DPH": 123.5,
+        "HP": "3,000",
+        "Build Cost": "19.2m",
+        "Build Time": "18d",
+        "Required TH": 15
+    }
+]

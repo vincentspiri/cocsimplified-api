@@ -1,0 +1,122 @@
+[
+    {
+        "Level": 1,
+        "DPS": 35,
+        "Damage on Death": 350,
+        "Golemites": 2,
+        "HP": "5,100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Lab LvL": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 40,
+        "Damage on Death": 400,
+        "Golemites": 2,
+        "HP": "5,400",
+        "Research Cost": "10k",
+        "Research Time": "1d 6h",
+        "Lab LvL": "6"
+    },
+    {
+        "Level": 3,
+        "DPS": 45,
+        "Damage on Death": 450,
+        "Golemites": 2,
+        "HP": "5,700",
+        "Research Cost": "20k",
+        "Research Time": "2d 12h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 4,
+        "DPS": 50,
+        "Damage on Death": 500,
+        "Golemites": 2,
+        "HP": "6,000",
+        "Research Cost": "30k",
+        "Research Time": "3d 18h",
+        "Lab LvL": "7"
+    },
+    {
+        "Level": 5,
+        "DPS": 55,
+        "Damage on Death": 550,
+        "Golemites": 2,
+        "HP": "6,300",
+        "Research Cost": "43k",
+        "Research Time": "4d 6h",
+        "Lab LvL": "8"
+    },
+    {
+        "Level": 6,
+        "DPS": 60,
+        "Damage on Death": 600,
+        "Golemites": 2,
+        "HP": "6,600",
+        "Research Cost": "53k",
+        "Research Time": "5d",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 7,
+        "DPS": 65,
+        "Damage on Death": 650,
+        "Golemites": 2,
+        "HP": "6,900",
+        "Research Cost": "77k",
+        "Research Time": "5d 12h",
+        "Lab LvL": "9"
+    },
+    {
+        "Level": 8,
+        "DPS": 70,
+        "Damage on Death": 700,
+        "Golemites": 3,
+        "HP": "7,200",
+        "Research Cost": "112k",
+        "Research Time": "7d 6h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 9,
+        "DPS": 75,
+        "Damage on Death": 750,
+        "Golemites": 3,
+        "HP": "7,500",
+        "Research Cost": "140k",
+        "Research Time": "9d 18h",
+        "Lab LvL": "10"
+    },
+    {
+        "Level": 10,
+        "DPS": 80,
+        "Damage on Death": 800,
+        "Golemites": 3,
+        "HP": "8,000",
+        "Research Cost": "200k",
+        "Research Time": "12d",
+        "Lab LvL": "11"
+    },
+    {
+        "Level": 11,
+        "DPS": 85,
+        "Damage on Death": 850,
+        "Golemites": 3,
+        "HP": "8,400",
+        "Research Cost": "300k",
+        "Research Time": "16d",
+        "Lab LvL": "12"
+    },
+    {
+        "Level": 12,
+        "DPS": 90,
+        "Damage on Death": 900,
+        "Golemites": 3,
+        "HP": "8,800",
+        "Research Cost": "330k",
+        "Research Time": "17d",
+        "Lab LvL": "13"
+    }
+]

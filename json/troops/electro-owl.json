@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 100,
+        "DPH Primary": 140,
+        "Secondary Chain Damage": 112,
+        "HP": "1,600",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A"
+    },
+    {
+        "Level": 2,
+        "DPS": 105,
+        "DPH Primary": 147,
+        "Secondary Chain Damage": 117.6,
+        "HP": "1,700",
+        "Upgrade Cost": "135k",
+        "Upgrade Time": "3d"
+    },
+    {
+        "Level": 3,
+        "DPS": 110,
+        "DPH Primary": 154,
+        "Secondary Chain Damage": 123.2,
+        "HP": "1,800",
+        "Upgrade Cost": "150k",
+        "Upgrade Time": "4d"
+    },
+    {
+        "Level": 4,
+        "DPS": 115,
+        "DPH Primary": 161,
+        "Secondary Chain Damage": 128.8,
+        "HP": "1,900",
+        "Upgrade Cost": "165k",
+        "Upgrade Time": "5d"
+    },
+    {
+        "Level": 5,
+        "DPS": 120,
+        "DPH Primary": 168,
+        "Secondary Chain Damage": 134.4,
+        "HP": "2,000",
+        "Upgrade Cost": "180k",
+        "Upgrade Time": "5d 12h"
+    },
+    {
+        "Level": 6,
+        "DPS": 125,
+        "DPH Primary": 175,
+        "Secondary Chain Damage": 140,
+        "HP": "2,100",
+        "Upgrade Cost": "195k",
+        "Upgrade Time": "6d"
+    },
+    {
+        "Level": 7,
+        "DPS": 130,
+        "DPH Primary": 182,
+        "Secondary Chain Damage": 145.6,
+        "HP": "2,200",
+        "Upgrade Cost": "210k",
+        "Upgrade Time": "6d 12h"
+    },
+    {
+        "Level": 8,
+        "DPS": 135,
+        "DPH Primary": 189,
+        "Secondary Chain Damage": 151.2,
+        "HP": "2,300",
+        "Upgrade Cost": "225k",
+        "Upgrade Time": "7d"
+    },
+    {
+        "Level": 9,
+        "DPS": 140,
+        "DPH Primary": 196,
+        "Secondary Chain Damage": 156.8,
+        "HP": "2,400",
+        "Upgrade Cost": "240k",
+        "Upgrade Time": "7d 12h"
+    },
+    {
+        "Level": 10,
+        "DPS": 145,
+        "DPH Primary": 203,
+        "Secondary Chain Damage": 162.4,
+        "HP": "2,500",
+        "Upgrade Cost": "255k",
+        "Upgrade Time": "8d"
+    }
+]

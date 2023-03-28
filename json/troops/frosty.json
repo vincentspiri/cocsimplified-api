@@ -1,0 +1,92 @@
+[
+    {
+        "Level": 1,
+        "DPS": 94,
+        "Frostmites": 1,
+        "HP": "2,350",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Required TH": 15
+    },
+    {
+        "Level": 2,
+        "DPS": 98,
+        "Frostmites": 1,
+        "HP": "2,450",
+        "Upgrade Cost": "215k",
+        "Upgrade Time": "3d",
+        "Required TH": 15
+    },
+    {
+        "Level": 3,
+        "DPS": 102,
+        "Frostmites": 1,
+        "HP": "2,550",
+        "Upgrade Cost": "225k",
+        "Upgrade Time": "4d",
+        "Required TH": 15
+    },
+    {
+        "Level": 4,
+        "DPS": 106,
+        "Frostmites": 1,
+        "HP": "2,650",
+        "Upgrade Cost": "235k",
+        "Upgrade Time": "5d",
+        "Required TH": 15
+    },
+    {
+        "Level": 5,
+        "DPS": 110,
+        "Frostmites": 2,
+        "HP": "2,800",
+        "Upgrade Cost": "245k",
+        "Upgrade Time": "5d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 6,
+        "DPS": 114,
+        "Frostmites": 2,
+        "HP": "2,900",
+        "Upgrade Cost": "255k",
+        "Upgrade Time": "6d",
+        "Required TH": 15
+    },
+    {
+        "Level": 7,
+        "DPS": 118,
+        "Frostmites": 2,
+        "HP": "3,000",
+        "Upgrade Cost": "265k",
+        "Upgrade Time": "6d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 8,
+        "DPS": 122,
+        "Frostmites": 2,
+        "HP": "3,100",
+        "Upgrade Cost": "275k",
+        "Upgrade Time": "7d",
+        "Required TH": 15
+    },
+    {
+        "Level": 9,
+        "DPS": 126,
+        "Frostmites": 2,
+        "HP": "3,200",
+        "Upgrade Cost": "285k",
+        "Upgrade Time": "7d 12h",
+        "Required TH": 15
+    },
+    {
+        "Level": 10,
+        "DPS": 130,
+        "Frostmites": 2,
+        "HP": "3,300",
+        "Upgrade Cost": "295k",
+        "Upgrade Time": "8d",
+        "Required TH": 15
+    }
+]
